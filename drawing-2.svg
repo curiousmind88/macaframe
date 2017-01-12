@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="279.0mm"
+   height="189.0mm"
+   viewBox="0 0 279.0 189.0"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.0 r15299"
+   sodipodi:docname="drawing-2.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="201.52981"
+     inkscape:cy="357.16535"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="961"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       id="guide3871"
+       position="0,11.3385826774"
+       orientation="0,1"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       id="guide3873"
+       position="0,702.992125998"
+       orientation="0,1"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       id="guide3875"
+       position="11.3385826774,0"
+       orientation="1,0"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       id="guide3877"
+       position="500.787401585,0"
+       orientation="1,0"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       id="guide3879"
+       position="553.700787413,0"
+       orientation="1,0"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       id="guide3881"
+       position="1043.14960632,0"
+       orientation="1,0"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs3862">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-68.596507 : 94.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="334.60323 : 94.5 : 1"
+       inkscape:persp3d-origin="133.00335 : 63 : 1"
+       id="perspective3926" />
+  </defs>
+  <metadata
+     id="metadata3865">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <g
+       id="g3991">
+      <rect
+         y="2.2797565"
+         x="11.338582"
+         height="27.214285"
+         width="268.3638"
+         id="rect3966"
+         style="fill:#80e5ff;stroke-width:0.26458332" />
+    </g>
+    <rect
+       style="fill:none;stroke-width:0.26458332"
+       id="rect3968"
+       width="267.60782"
+       height="148.16737"
+       x="11.338582"
+       y="29.494041" />
+    <rect
+       style="fill:none;stroke-width:0.26458332"
+       id="rect3970"
+       width="267.60785"
+       height="148.16736"
+       x="11.338582"
+       y="29.494041" />
+    <g
+       id="g3984"
+       style="fill:#000000">
+      <flowRoot
+         transform="scale(0.26458333)"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:25px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot3972"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3974"
+           style="fill:#000000"><rect
+             y="40.044975"
+             x="182.85715"
+             height="42.857143"
+             width="714.28571"
+             id="rect3976"
+             style="fill:#000000" /></flowRegion><flowPara
+           style="font-size:53.333334px;fill:#000000"
+           id="flowPara3978">Tobacco History Data</flowPara></flowRoot>    </g>
+    <rect
+       style="fill:#e6e6e6;stroke-width:0.26458332"
+       id="rect3988"
+       width="267.60785"
+       height="148.16736"
+       x="11.338582"
+       y="29.494041" />
+  </g>
+</svg>

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Curved Images</title>
+    <meta name="description" content="Curved Images - A-Frame">
+    <script src="dist/aframe.js"></script>
+      <script src="dist/aframe-text-component.min.js"></script>
+      <script src="dist/aframe-layout-component.min.js"></script>
+      <script src="dist/aframe-bmfont-text-component.min.js"></script>
+  </head>
+  <body>
+    <a-scene>
+      <a-assets>
+        <img id="mozvr" src="assets/img/mozvr.png">
+        <img id="shadow2" src="assets/img/radial-shadow-2.png">
+        <img id="ui1" src="ui-1.png">
+        <img id="ui2" src="ui-2.png">
+        <img id="ui3" src="ui-3.png">
+        
+        <a-mixin id="cube" geometry="primitive: box"
+                 material="color: #FFFBE0"></a-mixin>
+        <a-mixin id="secondary" material="color: #FFB400"></a-mixin>  
+          
+      </a-assets>
+
+        
+        
+        <a-entity position="-5 12 7" scale="7 7 7" bmfont-text="text: Underwriting VR Demo; color: white;"></a-entity>
+        
+      
+        
+    
+        <a-image src="screenshot.png" height="7" width="7" position="-18 6 0" rotation="0 30 0"></a-image>
+        <a-image src="screenshot.png" height="7" width="7" position="-9 6 0" rotation="0 0 0"></a-image>
+        <a-image src="screenshot.png" height="7" width="7" position="-1 6 0" rotation="0 -10 0"></a-image>
+        <a-image src="screenshot.png" height="7" width="7" position="7 6 0" rotation="0 -10 0"></a-image>
+        <a-image src="screenshot.png" height="7" width="7" position="16 6 0" rotation="0 -10 0"></a-image>
+        <a-image src="screenshot.png" height="7" width="7" position="28 6 0" rotation="0 -40 0"></a-image>
+        
+        <a-image src="screenshot.png" height="7" width="7" position="-18 -4 0" rotation="0 30 0"></a-image>
+        <a-image src="screenshot.png" height="7" width="7" position="-9 -4 0" rotation="0 0 0"></a-image>
+        <a-image src="screenshot.png" height="7" width="7" position="-1 -4 0" rotation="0 -10 0"></a-image>
+        <a-image src="screenshot.png" height="7" width="7" position="7 -4 0" rotation="0 -10 0"></a-image>
+        <a-image src="screenshot.png" height="7" width="7" position="16 -4 0" rotation="0 -10 0"></a-image>
+        <a-image src="screenshot.png" height="7" width="7" position="28 -4 0" rotation="0 -40 0"></a-image>
+       
+        <!--
+          <a-curvedimage src="screenshot.png" radius="4" theta-length="50" height="3.4" position="-70 15 0"
+                     rotation="0 180 0" scale="7 7 7"></a-curvedimage>
+        <a-curvedimage src="screenshot.png" radius="4" theta-length="70" height="3.4" position="-50 15 0"
+                     rotation="0 130 0" scale="7 7 7"></a-curvedimage>
+        
+        <a-curvedimage src="MOCKUP.png" radius="4" theta-length="100" height="3.02" position="0.2 1.5 0"
+                     rotation="0 140 0" scale="2 2 2"></a-curvedimage>
+        <a-curvedimage src="MOCKUP.png" radius="4" theta-length="100" height="3.02" position="0 1.5 0"
+                     rotation="0 90 0" scale="2 2 2"></a-curvedimage>
+-->
+      
+      <a-sky src="vrbackground.jpg"></a-sky>
+      <a-entity position="0 0 25">
+        <a-camera></a-camera>
+      </a-entity>
+    </a-scene>
+  </body>
+</html>
